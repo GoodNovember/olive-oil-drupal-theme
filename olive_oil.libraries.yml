@@ -8,7 +8,7 @@ global-styling:
 global-scripts:
   version: 1.0
   js:
-    js/olive-oil.js: {}
+    js/olive_oil.js: {}
 font-awesome:
   remote: https://fortawesome.github.io/Font-Awesome/
   version: 4.5.0
