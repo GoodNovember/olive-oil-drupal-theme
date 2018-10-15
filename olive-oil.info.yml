@@ -1,0 +1,14 @@
+name: Olive Oil
+type: theme
+description: 'Victor's first Drupal theme.'
+core: 8.x
+base theme: stable
+libraries:
+  - olive-oil/font-awesome
+  - olive-oil/global-styling
+  - olive-oil/global-scripts
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer

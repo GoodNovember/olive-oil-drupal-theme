@@ -1,0 +1,21 @@
+global-styling:
+  version: 1.0
+  css:
+    theme:
+      css/layout.css: {}
+      css/style.css: {}
+      css/colors.css: {}
+global-scripts:
+  version: 1.0
+  js:
+    js/olive-oil.js: {}
+font-awesome:
+  remote: https://fortawesome.github.io/Font-Awesome/
+  version: 4.5.0
+  license:
+    name: MIT
+    url: https://fortawesome.github.io/Font-Awesome/license/
+    gpl-compatible: true
+  css:
+    theme:
+      https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css: { type: external, minified: true }
