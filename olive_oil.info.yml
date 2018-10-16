@@ -4,9 +4,9 @@ description: "Victor's first Drupal theme."
 core: 8.x
 base theme: stable
 libraries:
-  - olive-oil/font-awesome
-  - olive-oil/global-styling
-  - olive-oil/global-scripts
+  - olive_oil/font-awesome
+  - olive_oil/global-styling
+  - olive_oil/global-scripts
 regions:
   header: Header
   content: Content
